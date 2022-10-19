@@ -9,4 +9,4 @@
 - Android Client
   - [Client](/protobuf-client)
   
- ## Java Socket, Netty는 AES256 암호화된 문자열 통신
+ ## Java Socket, Netty는 TCP 프로토콜로 AES256 암호화된 문자열 통신
