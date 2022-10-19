@@ -1,2 +1,10 @@
-# protobuf-network-example
-protocol buffer 기반 네트워크 통신 예제
+- java.net.Socket
+- Netty
+- gRPC
+
+# 위 세가지 기술을 사용한 예제
+
+- Console Server
+  - [Server]()
+- Android Client
+  - [Client]()
