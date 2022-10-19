@@ -1,6 +1,6 @@
-- java.net.Socket
-- Netty
-- gRPC
+- [java.net.Socket](https://docs.oracle.com/javase/8/docs/api/java/net/Socket.html?is-external=true)
+- [Netty](https://netty.io/)
+- [gRPC](https://grpc.io/)
 
 # 위 세가지 기술을 사용한 예제
 
