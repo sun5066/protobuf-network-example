@@ -5,6 +5,6 @@
 # 위 세가지 기술을 사용한 예제
 
 - Console Server
-  - [Server]()
+  - [Server](/protobuf-server)
 - Android Client
-  - [Client]()
+  - [Client](/protobuf-client)
