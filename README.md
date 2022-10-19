@@ -8,3 +8,5 @@
   - [Server](/protobuf-server)
 - Android Client
   - [Client](/protobuf-client)
+  
+ ## Java Socket, Netty는 AES256 암호화된 문자열 통신
